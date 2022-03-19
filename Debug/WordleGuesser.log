@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Vivian\Documents\GitHub\WordleGuesser\main.cpp(78,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vivian\Documents\GitHub\WordleGuesser\main.cpp(92,24): warning C4018: '<': signed/unsigned mismatch
+  WordleGuesser.vcxproj -> C:\Users\Vivian\Documents\GitHub\WordleGuesser\Debug\WordleGuesser.exe

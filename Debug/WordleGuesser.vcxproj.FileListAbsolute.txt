@@ -1,0 +1,2 @@
+C:\Users\Vivian\Documents\GitHub\WordleGuesser\Debug\WordleGuesser.exe
+C:\Users\Vivian\Documents\GitHub\WordleGuesser\Debug\WordleGuesser.pdb
